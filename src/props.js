@@ -8,8 +8,7 @@ const data = [
     name: "Nice Boy",
   },
   {
-    imgId:
-      "https://media.istockphoto.com/id/1681388313/vector/cute-baby-panda-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=qFrzn8TqONiSfwevvkYhys1z80NAmDfw3o-HRdwX0d8=",
+    imgId:"https://media.istockphoto.com/id/1681388313/vector/cute-baby-panda-cartoon-on-white-background.jpg?s=612x612&w=0&k=20&c=qFrzn8TqONiSfwevvkYhys1z80NAmDfw3o-HRdwX0d8=",
     info: "Panda",
     para: "Heroine",
     name: "NiceGirl",
@@ -29,6 +28,43 @@ const data = [
     name: "vey Nice",
   },
   {
+    imgId:
+      "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
+    info: "Hourse",
+    para: "Animal",
+    name: "janthuvu",
+  },
+  {
+    imgId:
+      "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
+    info: "Hourse",
+    para: "Animal",
+    name: "janthuvu",
+  },{
+    imgId:
+      "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
+    info: "Hourse",
+    para: "Animal",
+    name: "janthuvu",
+  },{
+    imgId:
+      "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
+    info: "Hourse",
+    para: "Animal",
+    name: "janthuvu",
+  },{
+    imgId:
+      "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
+    info: "Hourse",
+    para: "Animal",
+    name: "janthuvu",
+  },{
+    imgId:
+      "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
+    info: "Hourse",
+    para: "Animal",
+    name: "janthuvu",
+  },{
     imgId:
       "https://images.pexels.com/photos/29707252/pexels-photo-29707252/free-photo-of-giant-cartoon-balloon-at-city-parade-event.jpeg?auto=compress&cs=tinysrgb&w=600",
     info: "Hourse",
